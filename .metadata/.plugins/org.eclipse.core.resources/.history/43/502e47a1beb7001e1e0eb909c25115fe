@@ -1,0 +1,34 @@
+package com.bluejay.controller;
+
+import java.util.Scanner;
+
+import com.bluejay.dao.Main;
+
+public class MainController {
+static Scanner scan=new Scanner(System.in);
+	
+	public static void main(String[] args) {
+		System.out.println("Enter the option for the below questions :");
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println("Enter the key :");
+		int key=scan.nextInt();
+		switch (key) {
+		case 1:
+			Main.workingForSevenConsecutiveDays();
+			break;
+		case 2:
+			Main.shiftGreaterThan14();
+			break;
+		case 3:
+			
+			break;
+
+		default:
+			break;
+		}
+
+	}
+
+}

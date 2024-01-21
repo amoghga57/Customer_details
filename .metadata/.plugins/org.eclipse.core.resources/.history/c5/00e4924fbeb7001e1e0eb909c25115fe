@@ -1,0 +1,24 @@
+package com.bluejay.controller;
+
+public class MainController {
+static Scanner scan
+	
+	public static void main(String[] args) {
+		System.out.println("Enter the option for the below questions :");
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println("Enter the key :");
+		int key=
+		switch (key) {
+		case value:
+			
+			break;
+
+		default:
+			break;
+		}
+
+	}
+
+}

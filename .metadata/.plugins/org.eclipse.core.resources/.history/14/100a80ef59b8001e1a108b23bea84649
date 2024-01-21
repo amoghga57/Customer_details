@@ -1,0 +1,35 @@
+package com.bluejay.controller;
+
+import java.util.Scanner;
+
+import com.bluejay.dao.Operation;
+
+public class MainController {
+static Scanner scan=new Scanner(System.in);
+	
+	public static void main(String[] args) {
+		System.out.println("Enter the option for the below questions :");
+		System.out.println("");
+		System.out.println();
+		System.out.println();
+		System.out.println("Enter the key :");
+		int key=scan.nextInt();
+		switch (key) {
+		case 1:
+			Operation.workingForSevenConsecutiveDays();
+			break;
+		case 2:
+			Operation.timeBetweenShifts();;
+			break;
+		case 3:
+			Operation.shiftGreaterThan14();
+			break;
+
+		default:
+			System.out.println("Invalid Operation / key");
+			break;
+		}
+
+	}
+
+}

@@ -1,0 +1,17 @@
+package com.bluejay.controller;
+
+public class MainController {
+
+	public static void main(String[] args) {
+		switch (key) {
+		case value:
+			
+			break;
+
+		default:
+			break;
+		}
+
+	}
+
+}

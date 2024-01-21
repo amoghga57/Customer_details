@@ -1,0 +1,18 @@
+package com.bluejay.controller;
+
+public class MainController {
+
+	public static void main(String[] args) {
+		System.out.println("Enter the option for the below questions :");
+		switch (key) {
+		case value:
+			
+			break;
+
+		default:
+			break;
+		}
+
+	}
+
+}

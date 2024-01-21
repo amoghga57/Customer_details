@@ -1,0 +1,33 @@
+Enter the option for the below questions :
+1) who has worked for 7 consecutive days.
+2) who have less than 10 hours of time between shifts but greater than 1 hour
+3) Who has worked for more than 14 hours in a single shift
+
+
+1 ] There are 3 employees working consecutive for 7 days : 
+Employee Position :WFS000101     Employee name :Sparks, KeWWeMh
+Employee Position :WFS000456     Employee name :CEreira Jr, JEse
+Employee Position :WFS000473     Employee name :GAeWdia, JAaW CarXEs
+
+2 ] There are 18 employees who have less than 10 hours of time between shifts but greater than 1 hour : 
+Employee Position :WFS000153     Employee name :CaMaXaWE, CeghaW
+Employee Position :WFS000170     Employee name :Arias, FeXipe
+Employee Position :WFS000183     Employee name :FeXix, XeEWeX
+Employee Position :WFS000200     Employee name :Xee, XaCar
+Employee Position :WFS000228     Employee name :MAake, CasiaWE
+Employee Position :WFS000336     Employee name :REdrigAez, PedrE
+Employee Position :WFS000382     Employee name :ErEpeza, JEvaW
+Employee Position :WFS000391     Employee name :VasqAez, AXfredE
+Employee Position :WFS000424     Employee name :SiWgh, JaspreeM
+Employee Position :WFS000456     Employee name :CEreira Jr, JEse
+Employee Position :WFS000473     Employee name :GAeWdia, JAaW CarXEs
+Employee Position :WFS000491     Employee name :ArevaXE, JEse
+Employee Position :WFS000501     Employee name :CcRAWWeX, REWaXd Xee
+Employee Position :WFS000511     Employee name :WiXXiaCs, MyrreXX
+Employee Position :WFS000523     Employee name :DeXgadiXXE REdarMe, ChrisMiaW S
+Employee Position :WFS000536     Employee name :HaCiXMEW, DeaWMe DevEW
+Employee Position :WFS000538     Employee name :HAWMer, ViWceWM De PaAX
+Employee Position :WFS000541     Employee name :AXcEcer, ECar JesAs
+
+3 ] Who has worked for more than 14 hours in a single shift 
+Employe Position :WFS000523     Employee name :DeXgadiXXE REdarMe, ChrisMiaW S
