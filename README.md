@@ -8,8 +8,9 @@
 ![alt text](https://github.com/amoghga57/Customer_details/blob/main/images/Screenshot%20(207).png)
 
 </div>
+
 ------------------------------------------------
-<br></br>
+
 <div>
   <h3>Problem 2</h3>
   <p>Programmatically analyze the file and print in the console the name and position of employees 
@@ -19,7 +20,9 @@
 
  
 </div>
-<br></br>
+
+------------------------------------------------
+
 <div>
   <h3>Problem 3</h3>
   <p>Programmatically analyze the file and print in the console the name and position of employees 
