@@ -3,7 +3,7 @@
   <h3>Problem 1</h3>
   <p>Programmatically analyze the file and print in the console the name and position of employees 
       a) who has worked for 7 consecutive days.</p>
-  ![alt text](https://github.com/amoghga57/Banking-Project/blob/main/images/Screenshot%20(174).png)
+  ![alt text](https://github.com/amoghga57/Customer_details/blob/main/images/Screenshot%20(207).png)
 </div>
 <br></br>
 <div>
